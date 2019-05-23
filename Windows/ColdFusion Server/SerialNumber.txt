@@ -1,0 +1,3 @@
+Serial number for ColdFusion server 4.0 Single User:
+
+CF40STU-2358416037
